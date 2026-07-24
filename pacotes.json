@@ -1,1 +1,12 @@
-
+[
+  {
+    "nome": "Pacote Funk Arrochadeira 2026",
+    "url": "https://github.com/SEU_USUARIO/SEU_REPOSITORIO/releases/download/v1.0/pacote1.zip",
+    "pastaDestino": "Funk_Arrochadeira_2026"
+  },
+  {
+    "nome": "Pacote Vaneira & Arrocha",
+    "url": "https://github.com/SEU_USUARIO/SEU_REPOSITORIO/releases/download/v1.0/pacote2.zip",
+    "pastaDestino": "Vaneira_Arrocha"
+  }
+]
