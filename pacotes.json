@@ -3,5 +3,9 @@
     "nome": "Packs de Música v1",
     "url": "https://github.com/thsize/Bancodata-midiaPlay/releases/download/v1.0/packmidia.zip",
     "pastaDestino": "Pack_Midia_v1"
+  },
+  {
+    "nome": "https://github.com/thsize/Bancodata-midiaPlay/releases/download/TOP.ARROCHADEIRA/TOP.ARROCHADEIRA.zip",
+    "pastaDestino": "TOP.ARROCHADEIRA"
   }
 ]
