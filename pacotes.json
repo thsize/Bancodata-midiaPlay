@@ -5,7 +5,8 @@
     "pastaDestino": "Pack_Midia_v1"
   },
   {
-    "nome": "https://github.com/thsize/Bancodata-midiaPlay/releases/download/TOP.ARROCHADEIRA/TOP.ARROCHADEIRA.zip",
+    "nome": "TOP ARROCHADEIRA",
+    "url": "https://github.com/thsize/Bancodata-midiaPlay/releases/download/TOP.ARROCHADEIRA/TOP.ARROCHADEIRA.zip",
     "pastaDestino": "TOP.ARROCHADEIRA"
   }
 ]
